@@ -1,0 +1,10 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1795473191
+09_OPCOES_TECNOLOGICAS.md::TextFile::-1::1793306649::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1795472565::0::1::::<><><>0<>0<><>::
+::res://scenes/::1793307142
+Main.tscn::PackedScene::307985384434772863::1793307142::0::1::::<><><>0<>0<><>::uid://bwp3b5xag4j5r::::res://scripts/main.gd
+::res://scripts/::1795031661
+main.gd::GDScript::3963244382872251193::1795472581::0::1::::<>Control<><>0<>0<><>::
+preview_glyph.gd::GDScript::4172392983450772200::1795472565::0::1::::<>Control<><>0<>0<><>::
+sandbox_view.gd::GDScript::3559630999649871049::1795473113::0::1::::<>Control<><>0<>0<><>::
